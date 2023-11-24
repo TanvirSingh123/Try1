@@ -1,0 +1,39 @@
+html{
+    background-color: black;
+}
+h1 {
+    font-size: 30pt;
+    font-weight: 200;
+    font-family: 'Libre Baskerville', serif;
+    color: indianred;
+    text-align: center;
+}
+#before{
+    font-size: 1.5rem;
+    font-weight: 100;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: blanchedalmond;
+}
+.box{
+    padding: 10px 10px;
+    border: 1px solid;
+    margin-left: 80px;
+    size: 200px 200px;
+    align-items: center;
+    border-color: aliceblue;
+}
+#after{
+    font-size: 1.5rem;
+    font-weight: 100;
+    font-family: 'Times New Roman', Times, serif;
+    color: blanchedalmond;
+    text-align: center;
+}
+img{
+    height: 150pt;
+    width: 125pt;
+    border: 1px solid;
+    border-color: beige;
+    margin-left: 120px;
+}
